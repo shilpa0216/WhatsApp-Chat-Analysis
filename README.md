@@ -28,7 +28,7 @@ The project utilizes various open-source libraries and tools. See the [`requirem
 
 ## Usage
 - Export your WhatsApp chat conversation as a text file. You can find instructions on how to export chat logs on the WhatsApp website.
-- Visit the  app [website](https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/) or run the app in local environment.
+- Visit the  app [website](https://github.com/shilpa0216/WhatsApp-Chat-Analysis.git) or run the app in local environment.
 - Upload the chat text file on the server.
 - Follow the on-screen instructions to choose the desired analysis options.
 
