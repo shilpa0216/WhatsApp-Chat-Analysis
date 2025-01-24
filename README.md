@@ -13,7 +13,7 @@ This repository contains the **WhatsApp Chat Analyzer** project, a tool that all
 
 The **WhatsApp Chat Analyzer** is designed to help you gain valuable insights from your WhatsApp chats. It provides various functionalities to analyze and visualize data extracted from the chat exports. This tool allows you to explore patterns, trends, and statistics related to your conversations, helping you understand your messaging behavior and communication patterns.
 
-The project utilizes various open-source libraries and tools. See the [`requirements.txt`](https://github.com/karanprasadgupta/WhatsAppChatAnalzyer/blob/main/requirements.txt) file for details.
+The project utilizes various open-source libraries and tools. See the [`requirements.txt`](https://github.com/shilpa0216/WhatsApp-Chat-Analysis/blob/main/requirements.txt) file for details.
 
 
 ## Features
